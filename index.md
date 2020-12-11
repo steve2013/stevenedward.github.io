@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/steve2013/stevenedward.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I received the M.S. degree in computer science from the University of Dodoma, Dodoma, Tanzania, in 2012, Now, I am doing the Ph.D. degree in Computer Applied Technology from School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China, under the supervision of Prof. Guangzhi Ma. My research interest includes Machine Learning and Data Mining, and particularly in multi-view learning and multi-label learning.
 
 ### Markdown
 
