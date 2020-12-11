@@ -28,6 +28,9 @@ Conduct research, design and develop integrated ICT solution for Water Resources
 
 ### Teaching
 
+- Internet Programming and Applications(For Undergraduate students)
+- Object Oriented Programming in C++ (For Undergraduate and Masters students)
+
 ### Professional Service
 **PHP developer** at the Duxte Limited Company 2012 to date.
 **Web developer** at the Web Technologies Tanzania Limited Company, from June 2009 - March 2010
