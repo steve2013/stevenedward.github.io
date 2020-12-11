@@ -2,9 +2,12 @@
 
 I received the M.S. degree in computer science from the University of Dodoma, Dodoma, Tanzania, in 2012, Now, I am doing the Ph.D. degree in Computer Applied Technology from School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China, under the supervision of Prof. Guangzhi Ma. My research interest includes Machine Learning and Data Mining, and particularly in multi-view learning and multi-label learning.
 
-### Markdown
+### Education & Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Assistant Lecturer** (March 2013 - To date) Department of Computer Science, The University of Dodoma, Tanzania.
+- **Tutorial Assistant** (March 2010 - March 2013) Department of Computer Science, The University of Dodoma, Tanzania.
+- **M.S** (Sep 2010 - July 2012): School of Informatics, The University of Dodoma, Tanzania.
+- **Bsc** (Sep 2006 - Sep 2009): Faculty of Informatics and Virtual Education, The University of Dar es salaam, Tanzania.
 
 ```markdown
 Syntax highlighted code block
